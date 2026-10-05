@@ -1,0 +1,7 @@
+{
+    "diagnostics.disable": [
+        "undefined-doc-name",
+        "undefined-field",
+        "unused-local"
+    ]
+}
